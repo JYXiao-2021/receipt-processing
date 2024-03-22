@@ -18,7 +18,7 @@ Python, Docker
 - Run the following command:
 
 ```
-docker build -t eceipts-app .
+docker build -t receipts-app .
 ```
 
 3. Run Docker:
